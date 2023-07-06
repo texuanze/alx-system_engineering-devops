@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod "$new_permissions" hello
+chmod +x hello
